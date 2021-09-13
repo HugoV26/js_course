@@ -2,7 +2,7 @@ Tarea 7. Investigar los siguientes métodos y mostrar un ejemplo de cada uno.
 
 String
 
-    * toUpperCase
+    * toUpexitperCase
     * toLocaleLowerCase
     * substr
     * startsWith
